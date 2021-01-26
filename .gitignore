@@ -1,0 +1,11 @@
+assets/234
+assets/test_data
+assets/index.csv
+
+datasets/
+projectB_data
+projectB_sensor2_raw_data
+__pycache__
+weights/
+*.csv
+*.venv
