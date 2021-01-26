@@ -2,10 +2,14 @@ assets/234
 assets/test_data
 assets/index.csv
 
-datasets/
+datasets/0826B
+datasets/0826C
+datasets/*.csv
+
 projectB_data
 projectB_sensor2_raw_data
 __pycache__
-weights/
+weights/*.h5
+weights/*.joblib
 *.csv
 *.venv
